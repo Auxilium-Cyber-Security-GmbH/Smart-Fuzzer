@@ -24,7 +24,7 @@ Ensure you have Python 3.7 or above installed.
 
 1. **Clone the repository**:
    ```bash
-   git clone git@github.com:hassen-bouchhiwa/Smart-Fuzzer.git
+   git clone https://github.com/Auxilium-Cyber-Security-GmbH/Smart-Fuzzer.git
    cd smart-fuzzer
    ``` 
 
